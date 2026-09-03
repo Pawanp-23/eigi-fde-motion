@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Activity, ArrowUpRight, Check, ChevronDown, ChevronRight, Menu, Network, ShieldCheck, X } from 'lucide-react';
-import eigiLogo from './assets/eigi-logo.jpeg';
+import eigiLogo from './eigi-logo.jpeg';
 import './styles.css';
 
 const navigation = ['How it works', 'Capabilities', 'For teams', 'School'];
